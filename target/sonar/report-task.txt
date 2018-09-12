@@ -1,0 +1,5 @@
+projectKey=desktop.deschamps.compta:titi
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/desktop.deschamps.compta:titi
+ceTaskId=AWXM3tl-tUdFF3gQ139w
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWXM3tl-tUdFF3gQ139w
